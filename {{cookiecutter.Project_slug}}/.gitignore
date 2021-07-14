@@ -1,0 +1,5 @@
+# This file contains evrything which you don't whant to share!!!
+
+# Exclude the following folder
+env/
+.vscode/

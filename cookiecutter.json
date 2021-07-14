@@ -1,0 +1,11 @@
+{
+    "Repo_Name": "Name of the repository (The reporsitory name is equal to the project name)",
+    "Project_slug": "{{ cookiecutter.Repo_Name|lower|replace(' ','_') }}",
+    "Project_Lead_Name": "Name of the Project Lead",
+    "Project_Lead_Surname": "Surname of the Project Lead",
+    "Project_Lead_Email": "Email of the Project Lead or a responsible person who is in charge of this project",
+    "Project_Begin": "timestamp",
+    "License": [
+        "MIT"
+    ]
+}
